@@ -1,0 +1,1 @@
+global.userType = null;
